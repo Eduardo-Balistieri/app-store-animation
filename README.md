@@ -26,5 +26,4 @@ npm install
 yarn install
 
 expo start
-expo start
 ```
