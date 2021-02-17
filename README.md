@@ -15,7 +15,9 @@ Platforms:
 
 ![Preview](https://media0.giphy.com/media/2VcJlqhFKJZqoegP6W/giphy.gif)
 
-## :grey_question: Setup
+* You can find the images [here](https://dribbble.com/urancd)
+
+## :tv: Setup
 
 ```bash
 cd <app-store-animation>
